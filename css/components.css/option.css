@@ -1,0 +1,12 @@
+.option{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.option-2{
+    display: flex;
+    flex-direction: column;
+    float: left;
+    margin-left: 931px;
+}

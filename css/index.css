@@ -1,0 +1,19 @@
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5px;
+    background: linear-gradient(180deg, #FFAB5C 0%, #FFD8B4 52.6%, #FF7347 100%);
+}
+
+a, p, h2{
+    color: #E20000;
+    font-family: 'Jolly Lodger';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 122px;
+}

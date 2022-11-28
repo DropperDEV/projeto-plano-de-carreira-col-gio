@@ -1,0 +1,36 @@
+.Subtitle{
+    width: 638px;
+    height: 122px;
+    font-family: 'Jolly Lodger';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 122px;
+    align-items: center;
+    text-align: center;
+
+    background: linear-gradient(180deg, #8D0000 0%, #E20000 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.subtitle-2{
+    font-family: 'Jolly Lodger';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 128px;
+    line-height: 156px;
+
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    background: linear-gradient(180deg, #E20000 0%, #C90202 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

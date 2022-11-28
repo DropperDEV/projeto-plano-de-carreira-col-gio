@@ -1,0 +1,15 @@
+.title{
+
+    width: 433px;
+    height: 200px;
+    font-family: 'Jolly Lodger';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 200px;
+    line-height: 243px;
+    background: linear-gradient(180deg, #F4C303 0%, #EC6B01 51.56%, #E41B00 98.43%, #D9521E 98.44%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
