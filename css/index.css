@@ -17,3 +17,21 @@ a, p, h2{
     font-size: 100px;
     line-height: 122px;
 }
+
+.text{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.text .text-1{
+    display: inline;
+    color: #E20000;
+    font-family: 'Jolly Lodger';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 120px;
+    line-height: 122px;
+    text-justify: inter-word;
+}

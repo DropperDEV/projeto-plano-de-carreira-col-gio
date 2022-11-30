@@ -1,0 +1,6 @@
+.exit{
+    display: flex;
+    flex-direction: column;
+    margin-left: 2000px;
+    margin-top: 150px;
+}
