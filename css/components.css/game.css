@@ -1,0 +1,17 @@
+.game{
+    display: flex;;
+    justify-content: space-between;
+    flex-direction: row;
+    position: absolute;
+    margin-top: 230px;
+}
+
+.game .button{
+    margin-right: 220px;
+    margin-left: 250px;
+}
+
+.exit-quizz{
+    margin-top: 900px;
+    margin-left: 800px;
+}
