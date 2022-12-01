@@ -3,7 +3,7 @@
     justify-content: space-between;
     flex-direction: row;
     position: absolute;
-    margin-top: 230px;
+    margin-top: 30px;
 }
 
 .game .button{
@@ -14,4 +14,17 @@
 .exit-quizz{
     margin-top: 900px;
     margin-left: 800px;
+}
+
+.game-1{
+    display: flex;;
+    justify-content: space-between;
+    flex-direction: row;
+    position: absolute;
+    margin-top: 600px;
+}
+
+.game-1 .button{
+    margin-right: 220px;
+    margin-left: 250px;
 }
