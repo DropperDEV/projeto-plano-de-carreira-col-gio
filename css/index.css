@@ -21,8 +21,9 @@ a, p, h2{
 .text{
     display: flex;
     flex-direction: column;
-    margin-bottom: 10px;
     margin-left: 20px;
+    margin-top: 100px;
+
 }
 
 .text .text-1{
@@ -31,7 +32,15 @@ a, p, h2{
     font-family: 'Jolly Lodger';
     font-style: normal;
     font-weight: 400;
-    font-size: 120px;
+    font-size: 90px;
     line-height: 122px;
     text-justify: inter-word;
+}
+
+.text-about{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-top: 200px;
+
 }
